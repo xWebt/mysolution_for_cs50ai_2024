@@ -1,0 +1,7 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.linting.pylintArgs": [
+    "--extension-pkg-whitelist=pygame",
+     "--errors-only"
+    ]
+}
